@@ -24,11 +24,11 @@ I'm a full-stack developer who loves building scalable web apps and solving real
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=piyushsuhalka&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=appsByPiyush&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsuhalka&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=appsByPiyush&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuhalka&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appsByPiyush&layout=compact&theme=radical)
 
 </div>
 
@@ -36,7 +36,7 @@ I'm a full-stack developer who loves building scalable web apps and solving real
 
 ## 🚀 Notable Projects
 
-- 🔗 **[LinkShortener API](https://github.com/piyushsuhalka/LinkShortener-backend)**  
+- 🔗 **[LinkShortener API](https://github.com/appsByPiyush/LinkShortener-backend)**  
   A secure URL shortener with authentication, admin dashboard & CSV export.
 
 ---
