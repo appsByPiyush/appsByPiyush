@@ -24,8 +24,6 @@ I'm a full-stack developer who loves building scalable web apps and solving real
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=appsByPiyush&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appsByPiyush&layout=compact&theme=radical)
 
 </div>
