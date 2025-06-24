@@ -32,7 +32,7 @@ I'm a full-stack developer who loves building scalable web apps and solving real
 
 ## 🚀 Notable Projects
 
-- 🔗 **[LinkShortener API](https://github.com/appsByPiyush/LinkShortener-backend)**  
+- 🔗 **[LinkShortener API](https://github.com/appsByPiyush/link-shortener)**  
   A secure URL shortener with authentication, admin dashboard & CSV export.
 
 ---
