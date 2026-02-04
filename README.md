@@ -1,22 +1,29 @@
 # 👋 Hi, I'm Piyush Suhalka
 
-I'm a full-stack developer who loves building scalable web apps and solving real-world problems with clean code & modern tech.
+I'm an **AI-driven Full Stack Developer** focused on building scalable, high-performance web applications with modern frameworks, clean architecture, and strong backend systems.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-**Database & Auth:**  
+### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### **AI Tools**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -30,18 +37,20 @@ I'm a full-stack developer who loves building scalable web apps and solving real
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Projects
 
 - 🔗 **[LinkShortener API](https://github.com/appsByPiyush/link-shortener)**  
-  A secure URL shortener with authentication, admin dashboard & CSV export.
+  A secure URL shortener with authentication, admin dashboard, and CSV export.
+
+- 🔗 **More SaaS & Full Stack projects coming soon...**
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 [Email](mailto:piyushh.dev@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/piyushsuhalka/)
+- 📧 Email: [piyushh.dev@gmail.com](mailto:piyushh.dev@gmail.com)
+- 💼 LinkedIn: [Piyush Suhalka](https://www.linkedin.com/in/piyushsuhalka/)
 
 ---
 
-> ⚡ Let's build something meaningful together.
+> ⚡ Always building, always learning — let's create something impactful together.
