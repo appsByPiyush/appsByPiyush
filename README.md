@@ -30,8 +30,7 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appsByPiyush&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=appsByPiyush)](https://git.io/streak-stats)
 
 </div>
 
