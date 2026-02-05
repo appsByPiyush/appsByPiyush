@@ -43,7 +43,7 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 - 🔗 **[LinkShortener](https://github.com/appsByPiyush/link-shortener)**  
   A secure URL shortener with authentication, admin dashboard, and CSV export.
 
-** 🔗 **More SaaS & Full Stack projects coming soon...****
+ 🔗 **More SaaS & Full Stack projects coming soon...**
 
 ---
 
