@@ -32,7 +32,7 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 ## 🚀 Projects
 
 - 🔗 **[AppMextra - Personal Finance Manager App](https://appmextra.com)**  
- AppMextra is a smart personal finance and expense tracker app that helps you track expenses, manage budgets, monitor income, and build better money habits — all in one secure place.
+ AppMextra is a smart personal finance and expense tracker app that helps you track expenses, manage budgets, monitor income, and build better money habits all in one secure place.
 
 - 🔗 **[Scanndine App](https://github.com/appsByPiyush/Scanndine)**  
   Smart QR Menu & Dining Experience Platform.
