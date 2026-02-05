@@ -41,13 +41,13 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 - 🔗 **[AppMextra - Personal Finance Manager App](https://appmextra.com)**  
  AppMextra is a smart personal finance and expense tracker app that helps you track expenses, manage budgets, monitor income, and build better money habits — all in one secure place.
 
-- 🔗 **[LinkShortener API](https://github.com/appsByPiyush/link-shortener)**  
-  A secure URL shortener with authentication, admin dashboard, and CSV export.
-
 - 🔗 **[Scanndine App](https://github.com/appsByPiyush/Scanndine)**  
   Smart QR Menu & Dining Experience Platform.
   
-**- 🔗 **More SaaS & Full Stack projects coming soon...****
+- 🔗 **[LinkShortener](https://github.com/appsByPiyush/link-shortener)**  
+  A secure URL shortener with authentication, admin dashboard, and CSV export.
+  
+** 🔗 **More SaaS & Full Stack projects coming soon...****
 
 ---
 
