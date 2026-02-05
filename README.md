@@ -29,15 +29,6 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=appsByPiyush)](https://git.io/streak-stats)
-</div>
-
----
-
 ## 🚀 Projects
 
 - 🔗 **[AppMextra - Personal Finance Manager App](https://appmextra.com)**  
