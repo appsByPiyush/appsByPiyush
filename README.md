@@ -37,9 +37,12 @@ I'm an **AI-driven Full Stack Developer** focused on building scalable, high-per
 - 🔗 **[Scanndine App](https://github.com/appsByPiyush/Scanndine)**  
   Smart QR Menu & Dining Experience Platform.
   
+- 🔗 **[AutoSetu](https://github.com/appsByPiyush/AutoSetu)**  
+  AutoSetu is a backend automation API that connects Google Sheets → MongoDB → WhatsApp Notifications.
+
 - 🔗 **[LinkShortener](https://github.com/appsByPiyush/link-shortener)**  
   A secure URL shortener with authentication, admin dashboard, and CSV export.
-  
+
 ** 🔗 **More SaaS & Full Stack projects coming soon...****
 
 ---
